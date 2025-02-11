@@ -1,7 +1,6 @@
-I am b common file
-bbbbb
-aaaa
+I am c common file
+ccccc
+ccccc
 aaa
 aa
 a
-b
